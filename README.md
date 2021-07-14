@@ -1,4 +1,3 @@
-# uasmultimedia_kertasguntingbatu
 
 TUGAS UAS MULTIMEDIA
 
